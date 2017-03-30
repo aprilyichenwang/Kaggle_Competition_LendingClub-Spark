@@ -2,3 +2,5 @@
 
 Problem Statement: Predict whether a customer will pay off the loan in Lending Club or not
 We used Pyspark an Amazon EMR for classification. 
+
+See more detail, please see "presentation-lendingclub.pdf"
